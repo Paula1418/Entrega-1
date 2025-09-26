@@ -1,0 +1,1917 @@
+<?xml version="1.0" encoding="ASCII"?>
+<version>0.2</version>
+<karyotypes>
+  <karyotype>
+    <id>1</id>
+    <karyotype>t(1;14)(p22;q32)</karyotype>
+    <description>t(1;14)(p22;q32) is a translocation event involving chromosome 1 and 14. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice-versa. This translocation is readily detectable by conventional karyotyping and is frequently found in malt lymphoma in adults.</description>
+    <conditions>
+      <condition>
+        <name>Malt Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>2</id>
+    <karyotype>t(1;14)(q21;q32)</karyotype>
+    <description>t(1;14)(q21;q32) is a translocation involving chromosome 1 and 14. In particular, the region between 1q21 to 1qter is replaced with the region from 14q32 to 14qter and vice versa. It is found in acute lymphoblastic leukemia, somatic non-Hodgkin lymphoma, and B-cell non-Hodgkin lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>B-Cell Non-Hodgkin Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Non Hodgkin lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>3</id>
+    <karyotype>t(1;22)(q21;q11)</karyotype>
+    <description>t(1;22)(q21;q11) is a translocation event involving chromosome 1 and 22. In particular, the segment from 1q21 to 1qter replaces the segment from 22q11 to 22qter and vice-versa. This is frequently found in acute lymphoblastic lymphoma and somatic non-hodgkin lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Non Hodgkin lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>5</id>
+    <karyotype>t(3;14)(p14;q32)</karyotype>
+    <description>t(3;14)(p14;q32) is a translocation event involving chromosome 3 and 14. In particular, the segment from 3p14 to 3pter replaces the segment from 14q32 to 14qter and vice-versa. It is frequently found in malt lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Malt Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>6</id>
+    <karyotype>t(3;14)(q27;q32)</karyotype>
+    <description>t(3;14)(q27;q32) is a translocation event involving chromosome 3 and 14. In particular, the segment from 3q27 to 3qter replaces the segment from 14q32 to 14qter and vice-versa. This is frequently found in somatic non-hodgkin lymphoma and diffuse large B-cell lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Non Hodgkin lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Diffuse Large B Cell Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>7</id>
+    <karyotype>t(6;14)(p21;q32)</karyotype>
+    <description>t(6;14)(p21;q32) is a translocation event involving chromosome 6 and 14. In particular, the segment from 6p21 to 6pter replaces the segment from 14p32 to 14qter and vice-versa. This is frequently found in multiple myeloma.</description>
+    <conditions>
+      <condition>
+        <name>Multiple Myeloma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>8</id>
+    <karyotype>t(7;14)(q21;q32)</karyotype>
+    <description>t(7;14)(q21;q32) is a translocation event involving chromosome 7 and 14. In particular, the segment from 7q21 to 7qter replaces the segment from 14q32 to 14qter and vice-versa. This is frequently found in chronic lymphocytic leukemia and marginal zone lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Chronic Lymphocytic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Marginal Zone Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>9</id>
+    <karyotype>t(8;14)(q24;q32)</karyotype>
+    <description>t(8;14)(q24;q32) is a translocation event involving chromosome 8 and 14. In particular, the region between 8q24 and 8qter is replaced with 14q32 and 14qter and vice versa. It is found in acute lymphoblastic leukemia, somatic non-Hodgkin lymphoma, somatic breast adenocarcinoma, Burkitt lymphoma, B-cell acute lymphoblstic leukemia, and blastic plasmacytoid dendritic cell neoplasm.</description>
+    <conditions>
+      <condition>
+        <name>Burkitt Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Blastic plasmacytoid dendritic cell neoplasm</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Non Hodgkin lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Breast Cancer</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>10</id>
+    <karyotype>t(9;14)(p13;q32)</karyotype>
+    <description>t(9;14)(p13;q32) is a translocation event involving chromosome 9 and 14. In particular, the segment from 9p13 to 9pter replaces the segment from 14q32 to 14qter and vice-versa. It is frequently found in lymphoproliferative Disorders.</description>
+    <conditions>
+      <condition>
+        <name>Lymphoproliferative Disorders</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>11</id>
+    <karyotype>t(10;14)(q24;q32)</karyotype>
+    <description>t(10;14)(q24;q32) is a translocation event involving chromosome 10 and 14. In particular, the segment from 10q24 to 10qter replaces the segment from 14q32 to 14qter and vice-versa. It is frequently found in multiple myeloma, and chronic lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Multiple Myeloma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Lymphocytic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>12</id>
+    <karyotype>t(11;14)(q13;q32)</karyotype>
+    <description>t(11;14)(q13;q32) is a translocation event involving chromosome 11 and 14. In particular, the segment from 11q13 to 11qter replaces the segment from 14q32 to 14qter and vice-versa. This is frequently found in multiple myeloma, chronic lymphoblastic leukemia, B-cell prolymphocytic Leukemia and mantle cell lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Multiple Myeloma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Lymphocytic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Mantle Cell Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>13</id>
+    <karyotype>t(11;14)(q23;q32)</karyotype>
+    <description>t(11;14)(q23;q32) is a translocation event involving chromosome 11 and 14. In particualr, the segment from 11q23 to 11qter replaces the segment from 14q32 to 14qter and vice-versa. It is frequently found in acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>14</id>
+    <karyotype>t(12;14)(p13;q32)</karyotype>
+    <description>t(12;14)(p13;q32) is a translocation event involving chromosome 12 and 14. In particular, the segment from 12p13 to 12pter replaces the segment from 14q32 to 14qter and vice-versa. It is frequently found in mantle cell lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Mantle Cell Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>17</id>
+    <karyotype>t(14;18)(q32;q21)</karyotype>
+    <description>t(14;18)(q32;q21) is a translocation event involving chromosome 14 and 18. In particular, the segment from 14q32 to 11qter replaces the segment from 18q21 to 18qter and vice-versa. It is frequently found in mantle cell lymphoma, acute lymphoblastic leukemia and malt lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Mantle Cell Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Malt Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>19</id>
+    <karyotype>t(14;19)(q32;q13)</karyotype>
+    <description>t(14;19)(q32;q13) is a translocation event involving chromosome 14 and 19. In particular, the segment from 14q32 to 14qter replaces the segment from 19q13 to 19qter and vice-versa. It is frequently found in acute lymphoblastic leukemia, somatic breast adenocarcinoma, and somatic malignant melanoma.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Breast Cancer</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Melanoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>20</id>
+    <karyotype>t(14;22)(q32;q11)</karyotype>
+    <description>t(14;22)(q32;q11) is a translocation event involving chromosome 14 and 22. In particular, the segment from 14q32 to 14qter replaces the segment from 22q11 to 22qter and vice-versa. It is frequently found in somatic breast adenocarcinoma, and diffuse large B-cell lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Breast Cancer</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Diffuse Large B Cell Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>21</id>
+    <karyotype>t(9;22)(p24;q11)</karyotype>
+    <description>t(9;22)(p24;q11) is translocation event involving chromosome 9 and 22. In particular, the segment from 9p24 to 9pter replaces the segment from 22q11 to 22qter and vice-versa. It is commonly found in chronic myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>22</id>
+    <karyotype>t(8;9)(p22;p24)</karyotype>
+    <description>t(8;9)(p22;p24) is a translocation event involving chromosome 8and 9. In particular, the segment from 8p22 to 8pter replaces the segment from 9p24 to 9pter and vice-versa. It is frequently found in atypical chronic myeloid leukemia, and chronic eosinophilic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Atypical Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Eosinophilic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>23</id>
+    <karyotype>t(9;12)(p24;p13)</karyotype>
+    <description>t(9;12)(p24;p13) is a translocation event involving chromosome 9 and 12. In particualr, the segment from 9p24 to 9pter replaces the segment from 12p13 to 12pter and vice-versa. It is frequently found in acute lymphoblastic leukemia, and myeloproliferative disorder.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>24</id>
+    <karyotype>t(4;22)(q12;q11)</karyotype>
+    <description>t(4;22)(q12;q11) is a translocation event involving chromosome 4 and 22. In particular, the segment from 4q12 to 4qter replaces the segment from 22q11 to 22qter and vice-versa. It is found in myeloproliferative disorder.</description>
+    <conditions>
+      <condition>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>25</id>
+    <karyotype>t(4;10)(q12;p11)</karyotype>
+    <description>t(4;10)(q12;p11) is a translocation event in chromosome 4 and 10. In particular, the segment from 4q12 to 4qter replaces the segment from 10p11 to 10pter and vice-versa. It is frequently found in myeloproliferative disorder.</description>
+    <conditions>
+      <condition>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>26</id>
+    <karyotype>ins(9;4)(q33;q12q25)</karyotype>
+    <description>ins(9;4)(q33;q12q25) is an insertion event involving chromosome 9 and 4. In particular, the segment from 4q12 to 4q25 is inserted into chromosome 9 at 9q33. It is frequently found in chronic eosinophilic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Chronic Eosinophilic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>27</id>
+    <karyotype>t(4;12)(q12;p13)</karyotype>
+    <description>t(4;12)(q12;p13) is a translocation event involving chromosome 4 and 12. In particular, the segment from 4q12 to 4qter replaces the segment from 12p13 to 12pter and vice-versa. It is frequently found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>29</id>
+    <karyotype>t(5;12)(q33;p13)</karyotype>
+    <description>t(5;12)(q33;p13) is a translocation event involving chromosome 5 and 12. In particular, the segment from 5q33 to 5qter replaces the segment from 12p13 to 12pter and vice-versa. It is frequently found in acute myeloid leukemia and acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>30</id>
+    <karyotype>t(5;17)(q33;p13)</karyotype>
+    <description>t(5;17)(q33;p13) is a translocation event involving chromosome 5 and 17. In particular, the segment from 5q33 to 5qter replaces the segment from 17p13 to 17pter and vice-versa. It is frequently found in juvenile myelomonocytic leukemia</description>
+    <conditions>
+      <condition>
+        <name>Juvenile Myelomonocytic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>31</id>
+    <karyotype>t(5;17)(q33;p11.2)</karyotype>
+    <description>t(5;17)(q33;p11.2) is a translocation event involving chromosome 5 and 17. In particular, The segment from 5q33 to 5qter replaces the segment from 17p11.2 to 17pter and vice-versa. It is frequently found in juvenile myelomonocytic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Juvenile Myelomonocytic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>32</id>
+    <karyotype>t(5;14)(q33;q32)</karyotype>
+    <description>t(5;14)(q33;q32) is a translocation event involving chromosome 5 and 14. In particular, the segement from 5q33 to 5qter is replaced with the segment form 14q32 to 14qter and vice versa. It is commonly found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>33</id>
+    <karyotype>t(5;14)(q33;q24)</karyotype>
+    <description>t(5;14)(q33;q24) is a translocation event involving chromosome 5 and 14. In particular, the segment from 5q33 to 5qter replaces the segment from 14q24 to 14qter and vice-versa. It is freuqently found in myeloproliferative disorder.</description>
+    <conditions>
+      <condition>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>34</id>
+    <karyotype>t(5;15)(q33;q22)</karyotype>
+    <description>t(5;15)(q33;q22) is a translocation event involving chromosome 5 and 15. In particular, the segment from 5q33 to 5qter replaces the segment from 15q22 to 15q22 and vice-versa. It is frequently found in chronic myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>36</id>
+    <karyotype>t(5;7)(q33;q11.2)</karyotype>
+    <description>t(5;7)(q33;q11.2) is a translocation event involving chromosome 5 and 7. In particular, the segment from 5q33 to 5qter replaces the segment from 7q11.2 to 7qter and vice-versa. It is frequently found in chronic myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>37</id>
+    <karyotype>t(5;10)(q33;q21)</karyotype>
+    <description>t(5;10)(q33;q21) is a translocation event involving chromosome 5 and 10. In particular, the segment from 5q33 to 5qter replaces the segment from 10q21 to 10qter and vice-versa. It is frequently found in chronic myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>40</id>
+    <karyotype>t(5;12)(q33;q24)</karyotype>
+    <description>t(5;12)(q33;q24) is a translocation event involving chromosome 5 and 12. In particular, the segment from 5q33 to 5qter replaces the segment from 12q24 to 12qter and vice-versa. It is commonly found in myeloproliferative disorder.</description>
+    <conditions>
+      <condition>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>42</id>
+    <karyotype>t(4;5)(q21;q33)</karyotype>
+    <description>t(4;5)(q21;q33) is a translocation event involving chromosome 4 and 5. In particular, the segment from 4q21 to 4qter replaces the segment from 5q33 to 5qter and vice-versa. It is commonly found in myeloproliferativce disorder.</description>
+    <conditions>
+      <condition>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>43</id>
+    <karyotype>t(8;13)(p11;q12)</karyotype>
+    <description>t(8;13)(p11;q12) is a translocation event involving chromosome 8 and 13. In particular, the segment from 8p11 to 8pter replaces the segment from 13q12 to 13qter and vice-versa. It is frequently found in myeloproliferative disorder.</description>
+    <conditions>
+      <condition>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>44</id>
+    <karyotype>t(6;8)(q27;p11)</karyotype>
+    <description>t(6;8)(q27;p11) is a translocation event involving chromosome 6 and 8. In particular, the segment from 6q27 to 6qter replaces the segment from 8p11 to 8pter and vice-versa. It is commonly found in myeloproliferative disorder.</description>
+    <conditions>
+      <condition>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>45</id>
+    <karyotype>t(8;9)(p11;q33)</karyotype>
+    <description>t(8;9)(p11;q33) is a translocation event involving chromosome 8 and 9. In particular, the segment from 8p11 to 8pter replaces the segment from 9q33 to 9qter and vice-versa. It is frequently found in chromosome 8p11 myeloproliferative syndrome.</description>
+    <conditions>
+      <condition>
+        <name>Chromosome 8p11 Myeloproliferative Syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>48</id>
+    <karyotype>t(8;19)(p11;q13.3)</karyotype>
+    <description>t(8;19)(p11;q13.3) is a translocation event involving chromosome 8 and 19. In particular, the segment from 8p11 to 8pter replaces the segment from 19q13.3 to 19qter and vice-versa. It is frequently found in acute myeloid lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>49</id>
+    <karyotype>t(8;22)(p11;q11)</karyotype>
+    <description>t(8;22)(p11;q11) is a translocation event involving chromosome 8 and 22. In particular, the segment from 8p11 to 8pter replaces the segment from 22q11 to 22qter and vice-versa. It is frequently found in chronic myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>50</id>
+    <karyotype>t(1;7)(p34;q34)</karyotype>
+    <description>t(1;7)(p34;q34) is a translocation event involving chromosome 1 and 7. In particular, the segment from 1p34 to 1pter replaces the segment from 7q34 to 7qter and vice-versa. it is frequently found in somatic T-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>51</id>
+    <karyotype>t(1;7)(p32;q34)</karyotype>
+    <description>t(1;7)(p32;q34) is a translocation event involving chromosome 1 and 7. In particular, the segment from 1p32 to 1pter replaces the segment from 7q34 to 7qter and vice-versa. It is frequently found in somatic T-cell acute lymphoblastic leukemia</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>52</id>
+    <karyotype>t(1;11)(p32;q23)</karyotype>
+    <description>t(1;11)(p32;q23) is a translocation event involving chromosome 1 and 11. In particular, the segment from 1p32 to 1pter replaces the segment from 11q23 to 11qter and vice-versa. It is frequently found in acute lymphoblastic leukemia, acute myeloid leukemia, and myelodysplastic syndroms.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>53</id>
+    <karyotype>t(1;14)(p32;q11)</karyotype>
+    <description>t(1;14)(p32;q11) is a translocation event involving chromosome 1 and 14. In particular, the segment from 1p32 to 1pter replaces the segment from 14q11 to 14qter and vice-versa. It is frequently found in somatic T-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>55</id>
+    <karyotype>t(1;19)(q23;p13.3)</karyotype>
+    <description>t(1;19)(q23;p13.3) is a translocation event involving chromosome 1 and 19. In particular, the segment from 1p23 to 1qter replaces the segment from 19p13.3 to 19pter and vice-versa. It is frequently found in B-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>57</id>
+    <karyotype>t(4;11)(q21;q23)</karyotype>
+    <description>t(4;11)(q21;q23) is a translocation event involving chromosome 4 and 11. In particular, the segment from 4q21 to 4qter replaces the segment from 11q23 to 11qter and vice-versa. It is commonly found in acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>58</id>
+    <karyotype>t(5;14)(q35;q32)</karyotype>
+    <description>t(5;14)(q35;q32) is a translocation event involving chromosome 5 and 14. In particular, the segment from 5q35 to 5qter replaces the segment from 14q32 to 14qter and vice-versa. It is frequently found in somatic T-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>59</id>
+    <karyotype>del(6)(q)</karyotype>
+    <description>del(6)(q) is a deletion event involving chromosome 6. In particular, it is the deletion of the q arm. It is frequently found in B-cell acute lymphoblastic leukemia, somatic T-cell acute lymphoblastic leukemia, chronic lymphoblastic leukemia, waldenstrom macroglobulinemia, acute myeloid leukemia, and myelodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Lymphocytic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Waldenstrom Macroglobulinemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>60</id>
+    <karyotype>t(6;7)(q23;q34)</karyotype>
+    <description>t(6;7)(q23;q34) is the translocation event involving chromosome 6 and 7. In particular, the segment from 6q23 to 6qter replaces the segment from 7q34 to 7qter and vice-versa. It is frequently found in somatic T-cell actue lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>61</id>
+    <karyotype>t(6;11)(q27;q23)</karyotype>
+    <description>t(6;11)(q27;q23) is a translocation event involving chromosome 6 and 11. In particular, the segment from 6q27 to 6qter replaces the segment from 11q23 to 11qter and vice-versa. It is frequently found in acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>62</id>
+    <karyotype>t(6;14)(p22;q32)</karyotype>
+    <description>t(6;14)(p22;q32) is a translocation event involving chromosome 6 and 14. In particular, the segment between 6p22 and 6pter is replaced with the segment from 14q32 to 14qter and vice versa. It is found in B-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>63</id>
+    <karyotype>inv(7)(p15q34)</karyotype>
+    <description>inv(7)(p15q34) is a pericentric inversion event. In particular, the segment from 7p15 to 7q32 is inverted and inserted back into the chromosome. It is frequently found in somatic T-cell acute lymphoblastic leukemia, and somatic non-hodgkin lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Non Hodgkin lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>65</id>
+    <karyotype>t(7;14)(p15;q11)</karyotype>
+    <description>t(7;14)(p15;q11) is a translocation event involving chromosome 7 and 14. In particular, the segment from 7p15 to 7pter replaces the segment from 14q11 to 14qter and vice-versa. It is frequently found in somatic T-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>66</id>
+    <karyotype>t(7;14)(p15;q32)</karyotype>
+    <description>t(7;14)(p15;q32) is a translocation event involving chromosome 7 and 14. In particular, the region between 7p15 to 7pter is replaced with the region between 14q32 to 14qter and vice versa. It is found in somatic T-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>68</id>
+    <karyotype>i(7)(q10)</karyotype>
+    <description>i(7)(q10) is the isochromosome of the long arm on chromosome 7. It typically involves the deletion of one p arm and the duplication of the q arm. This results in 1 copy of the p arm and three copies of the q arm on chromosome 7. It is frequently found in acute myeloid leukemias, chronic myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>69</id>
+    <karyotype>t(7;9)(q34;q32)</karyotype>
+    <description>t(7;9)(q34;q32) is a translocation event involving chromosome 7 and 9. In particular the region between 7q34 and 7qter is replaced with the region between 9q32 and 9qter. It is found in somatic T-cell acute lympohoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>70</id>
+    <karyotype>t(7;9)(q34;q34.3)</karyotype>
+    <description>t(7;9)(q34;q34.3) is a translocation event involving chromosome 7 and 9. In particular, the segment between 7q34 to 7qter is replaced with the region between 9q34.3 and 9qter and vice versa. It is found in somatic T-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>71</id>
+    <karyotype>t(7;10)(q34;q24)</karyotype>
+    <description>t(7;10)(q34;q24) is a translocation event involving chromosome 7 and 10. In particular, the region between 7q34 and 7qter is replaced with the region between 10q24 and 10qter. It is found in somatic T-cell lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>73</id>
+    <karyotype>t(7;11)(q34;p15)</karyotype>
+    <description>t(7;11)(q34;p15) is a translocation event involving chromosome 7 and 11. In particular, the segment between 7q34 to 7qter is replaced with the segment between 11p15 and 11pter and vice versa. It is found in somatic T-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>74</id>
+    <karyotype>t(7;12)(q36;p13)</karyotype>
+    <description>t(7;12)(q36;p13) is a translocation event involving chromosome 7 and 12. In particular, the region between 7q36 to 7qter is replaced with the region between 12p13 to 12pter and vice versa. It is found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>75</id>
+    <karyotype>t(7;19)(q34;p13)</karyotype>
+    <description>t(7;19)(q34;p13) is a translocation event involving chromosome 7 and 19. In particular, the segment between 7q34 and 7qter is replaced with the segment between 19p13 to 19pter. It is found in somatic T-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>76</id>
+    <karyotype>t(8;14)(q11;q32)</karyotype>
+    <description>t(8;14)(q11;q32) is a translocation event involving chromosome 8 and 14. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice-versa. It is frequently found in acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>77</id>
+    <karyotype>t(8;14)(q24;q11)</karyotype>
+    <description>t(8;14)(q24;q11) is a translocation event involving chromosome 8 and 14. In particular, the region between 8q24 and 8qter is replaced with the region between 14q11 to 14qter. It is found in acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>78</id>
+    <karyotype>t(8;22)(q24;q11)</karyotype>
+    <description>t(8;22)(q24;q11) is a translocation event involving chromosome 8 and 22. In particular, the region between 8q24 to 8qter is replaced with the region between 22q11 and 22qter and vice versa. It is found in B-cell acute lymphoblastic leukemia, Burkitt lymphoma, diffuse large B-cell lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Burkitt Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Diffuse Large B Cell Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>79</id>
+    <karyotype>del(9)(p)</karyotype>
+    <description>del(9)(p) is a deletion event of chromosome 9. In particular it is the deletion of the p arm of chromosome 9. It is frequently found in acute lymphoblastiv leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>81</id>
+    <karyotype>del(7)(q)</karyotype>
+    <description>del(7)(q) is a deletion event in chromosome 7. In particular, the q arm of chromosome 7 is deleted. It is found in myelodysplastic syndromes and acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>82</id>
+    <karyotype>del(5)(q)</karyotype>
+    <description>del(5)(q) is a deletion event of chromosome 5. In particular, it is the deletion of the q arm of chromosome 5. It is frequently found in acute lymphoblastic leukemia and myelodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>83</id>
+    <karyotype>del(20)(q)</karyotype>
+    <description>del(20)(q) is the deletion event of chromosome 20. In particular, it is the deletion of the q arm of chromosome 20. It is frequently found in myelodysplatic syndromes, acute myeloid leukemia and myeloproliferative diseases.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>85</id>
+    <karyotype>del(13)(q)</karyotype>
+    <description>del(13)(q) is a deletion event of chromosome 13. In particular, it is the deletion of the q arm of chromosome 13. It is frequently found in myeloproliferative diseases, and B-cell chronic lymphotic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Lymphocytic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>86</id>
+    <karyotype>del(11)(q)</karyotype>
+    <description>del(11)(q) is a deletion event of chromosome 11. In particular, it is the deletion of the q arm of chromosome 11. It is frequently found in somatic non-Hodgkin lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Non Hodgkin lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>87</id>
+    <karyotype>del(9)(q)</karyotype>
+    <description>del(9)(q) is a deletion event of chromosome 9. In particular, it is the deletion of the q arm of chromosome 9. It is frequently found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>88</id>
+    <karyotype>idic(X)(q13)</karyotype>
+    <description/>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>89</id>
+    <karyotype>t(1;3)(p36.3;q21)</karyotype>
+    <description>t(1;3)(p36.3;q21) is a translocation event involving chromosome 1 and 3. In particular the region between 1p36.3 to 1pter is replaced with the region between 3q21 to 3qter and vice versa. It is found in chronic myeloid leukemia, myelodysplastic syndromes and acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>93</id>
+    <karyotype>der(1;7)(q10;p10)</karyotype>
+    <description>der(1;7)(q10;p10) is the unbalance translocation event involving chromosome 1 and 7. In particular, this translocation event results in a derivative chromosome including the long arm of chromosome 1 and the short arm of chromosome 7, and a chromosome 7 resulting in trisomy for 1q and monosomy for 7q. It is frequently found in myelodysplastic syndromes, and acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>94</id>
+    <karyotype>t(3;21)(q26.2;q22.1)</karyotype>
+    <description>t(3;21)(q26.2;q22.1) is a translocation event involving chromosome 3 and 21. In particular the region between 3q26.2 to 3qter is replaced with the region between 21q22.1 to 21qter and vice versa. It is found in chronic myeloid leukemia, myelodysplastic syndromes, and acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>96</id>
+    <karyotype>t(1;3)(p36;q21)</karyotype>
+    <description>t(1;3)(p36;q21) is a translocation event involving chromosome 1 and 3. In particular, the segment of 1p36 to 1pter is replaced with 3q21 to 3qter and vice versa. It is frequently found in myelodysplastic syndromes, and acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>98</id>
+    <karyotype>t(1;11)(q21;q23)</karyotype>
+    <description>t(1;11)(q21;q23) is a translocation event involving chromosome 1 and 11. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice-versa. It is freuqently found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>100</id>
+    <karyotype>inv(3)(q21q26)</karyotype>
+    <description>inv(3)(q21q26) is an paracentric inversion event of chromosome 3. In particular, the segement between 3q21 and 3q26 is inversed. It is frequently found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>102</id>
+    <karyotype>t(3;12)(q26;p13)</karyotype>
+    <description>t(3;12)(q26;p13) is a translocation event invovling chromosome 3 and 12. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice versa. It is frequently found in myelodysplastic syndromes, actue myeloid leukemia, and chronic myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>103</id>
+    <karyotype>t(3;21)(q26;q22)</karyotype>
+    <description>t(3;21)(q26;q22) is a translocation event involving chromosome 3 and 21. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice versa. It is frequently found in myelodysplastic syndromes, actue myeloid leukemia, and chronic myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>107</id>
+    <karyotype>t(5;17)(q35;q21)</karyotype>
+    <description>t(5;17)(q35;q21) is a translocation event involving chromosome 5 and 17. In particular, the segment from 5q35 to 5qter is replaced with 17q21 to 17qter. It is found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>108</id>
+    <karyotype>t(6;9)(p22;q34)</karyotype>
+    <description>t(6;9)(p22;q34) is a translocation event involving chromosome 6 and 9. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice-versa. It is found in acute myeloid leukemia, and myelodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>109</id>
+    <karyotype>t(7;11)(p15;p15)</karyotype>
+    <description>t(7;11)(p15;p15) is a translocation event involving chromosome 7 and 11. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice versa. It is found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>111</id>
+    <karyotype>t(8;16)(p11;p13)</karyotype>
+    <description>t(8;16)(p11;p13) is a translocation event involving chromosome 8 and 16. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice versa. It is found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>112</id>
+    <karyotype>t(8;21)(q22;q22)</karyotype>
+    <description>t(8;21)(q22;q22) is a translocation event involving chromosome 8 and 21. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice versa. It is found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>113</id>
+    <karyotype>t(9;11)(p21;q23)</karyotype>
+    <description>t(9;11)(p21;q23) is a translocation event involving chromosome 9 and 11. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice versa. It is found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>114</id>
+    <karyotype>t(9;22)(q34;q11)</karyotype>
+    <description>t(9;22)(q34;q11) is a translocation event involving chromosome 9 and 22. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice-versa. It is found in acute lymphoblsatic leukemia, acute myeloid leukemia, and chronic myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>117</id>
+    <karyotype>inv(11)(p15q22)</karyotype>
+    <description>inv(11)(p15q22) is an pericentric inversion event involving chromosome 11. In particular, the segment between 11p15 and 11q22 is inversed. It is found in acute myeloid leukemia, chronic myeloid leukemia, and myelodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>120</id>
+    <karyotype>t(11;17)(q23;q21)</karyotype>
+    <description>t(11;17)(q23;q21) is a translocation event involving chromosome 11 and 17. In particular, the region between 11q23 and 11qter is replaced with the region between 17q21 and 17qter and vice versa. It is found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>121</id>
+    <karyotype>t(11;17)(q23;q25)</karyotype>
+    <description>t(11;17)(q23;q25) is a translocation event involving chromosome 11 and 17. In particular, the segment between 11q23 and 11qter is replaced with the region between 17q25 and 17qter and vice versa. It is found in acute myeloid leukemia, acute lymphoblastic leukemia, myelodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>122</id>
+    <karyotype>t(11;19)(q23;p13.1)</karyotype>
+    <description>t(11;19)(q23;p13.1) is a translocation event involving chromosome 11 and 19. In particular, the segment between 11q23 to 11qter is replaced with the region between 19p13.1 to 19pter. It is found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>123</id>
+    <karyotype>t(11;19)(q23;p13.3)</karyotype>
+    <description>t(11;19)(q23;p13.3) is a translocation event involving chromosome 11 and 19. In particular the region between 11q23 and 11qter is replaced with the region between 19p13.3 and 19pter. It is found in acute myeloid leukemia and acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>125</id>
+    <karyotype>t(15;17)(q22;q21)</karyotype>
+    <description>t(15;17)(q22;q21) is a translocation between chromosome 15 and 17. In particular, the region between 15q22 and 15qter is replaced with the region between 17q21 and 17qter. It is found in myelodysplastic syndromes and acute myelodid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>126</id>
+    <karyotype>inv(16)(p13q22)</karyotype>
+    <description>inv(16)(p13q22) is a pericentric inversion event involving chromsome 16. In particular, the segment from 16q13 and 16q22 is inversed. It is found in acute myeloid leukemia and myelodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>127</id>
+    <karyotype>t(16;21)(p11;q22)</karyotype>
+    <description>t(16;21)(p11;q22) is a translocation event involving chromosome 16 and 21. In particular, the segment from 16p11 to 16pter is replaced with the segment from 21q22 to 21qter and vice versa. It is found in acute myeloid leukemia and ewing sarcoma.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Ewing Sarcoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>128</id>
+    <karyotype>i(17)(q10)</karyotype>
+    <description>i(17)(q10) is the isochromosoem of the long arrm of chromosome 17. This result in the 1 copy of the p arm and 3 copoies of the q arm on chromosome 17. It is found in myelodysplastic syndromes and myeloproliferative diseases.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>131</id>
+    <karyotype>t(2;14)(p13-16;q32)</karyotype>
+    <description>t(2;14)(p13-16;q32) is a translocation event involving chromosome 2 and 14. In particular, he segment from 2p13 to 2p16 replaces the segment from 14q32 to 14qter and vice-versa. It is found in chronic lymphocytic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Chronic Lymphocytic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>132</id>
+    <karyotype>t(1;5)(q21-23;q31-33)</karyotype>
+    <description>t(1;5)(q21-23;q31-33) is a translocation event involving chromosome 1 and 5. In particular, the segment from 1q21 to 1q23 replaces the segment from 5q31 to 5q33 and vice-versa. It is found in myelodysplastic syndromes, and myeloproliferative diseases.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>133</id>
+    <karyotype>t(5;16)(q32;p13)</karyotype>
+    <description>t(5;16)(q32;p13) is the translocation event involving chromosome 5 and 16. In particular, the segment from 5q32 to 5qter replaces the segment from 16p13 to 16pter and vice-versa. It is found in myelodysplastic syndromes and myeloproliferative diseases.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>134</id>
+    <karyotype>dup(1)(q11-q44)</karyotype>
+    <description>dup(1)(q11-q44) is the duplication event involving chromosome. In particular, the segement from 1q11 to 1q44 is duplicated. It is found in myeloproliferative diseases and acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>135</id>
+    <karyotype>dic(7;9)(p11-13;p11)</karyotype>
+    <description>dic(7;9)(p11-13;p11) is the fusion event involving chromsome 7 and 9 that results in the formation of a dicentric chromosome. In particular, the segment from 7q11 to 7q13 is fused with 9p11 to 9pterr. It is found in acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>136</id>
+    <karyotype>dic(7;9)(p11-12;p12-13)</karyotype>
+    <description>dic(7;9)(p11-12;p12-13) is a fusion event involving chromosome 7 and 9 that results in the formation of a dicentric chromosome. In particular, the segment from 7p11 to 7p12 is fused with the segment from 9p12 to 9p13. It is found in acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>137</id>
+    <karyotype>dic(9;12)(p13;p13)</karyotype>
+    <description>dic(9;12)(p13;p13) is the fusions event involving chromosome 9 and 12 that results in the formation of a dicentric chromosome. In particular, the segment from 9p13 to 9pter is fused with 12p13 to 12pter. It is found in B-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>138</id>
+    <karyotype>dic(5;17)(q11-14;p11-13)</karyotype>
+    <description>dic(5;17)(q11-14;p11-13) is the fusion event involving chromosome 5 and 17 resulting in the formation of a dicentric chromosome. In particular, the segment from 5q11 to 5q14 is fused with the segment from 17p11 to 17p13. It is found in myelodysplastic syndromes, and acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>139</id>
+    <karyotype>Trisomy 4</karyotype>
+    <description>Trisomy 4 9+4), is the duplication of chromosome resulting in 3 copies of chromosome 4. It is found in acute myeloid leukemia, and acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>140</id>
+    <karyotype>Trisomy 11</karyotype>
+    <description>Trisomy 11 (+11), is the duplication of chromosome resulting in 3 copies of chromosome 11. It is found in acute meloid leukemia, and myelodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>141</id>
+    <karyotype>Trisomy 13</karyotype>
+    <description>Trisomy 13 (+13), is the duplication of chromosome 13 resulting in 3 copies of chromosome 13. It is found in acute myeloid leukemia, B-cell acute lymphoblastic leukemia, chronic myeloid leukemia, and myelodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>142</id>
+    <karyotype>Trisomy 21</karyotype>
+    <description>Trisomy 21 (+21), is the duplication of chromosome 21 resulting in three copies of chromosome 21. It is found in Down syndrome, acute myeloid leukemia, myelodysplastic syndromes, acute lymphoblastic leukemia, and B-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Down Syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>143</id>
+    <karyotype>Trisomy 22</karyotype>
+    <description>Trisomy 22 (+22), is the duplication of chromosome 22 resulting in three copies of chromosome 22. It is found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>144</id>
+    <karyotype>t(1;11)(q24;p15)</karyotype>
+    <description>t(1;11)(q24;p15) is a translocation event involving chromosome 1 and 11. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice-versa. it is found in acute myeloid leukemia and chronic myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>145</id>
+    <karyotype>der(11)t(1;11)(q11-23;q14-25)</karyotype>
+    <description>der(11)t(1;11)(q11-23;q14-25) is the unbalanced translocation event involving chromosome 1 and 11. In particular, the segment from 11q14 to 11q25 is replaced with the segment from 1q11 to 1q23. It is found in acute myeloid leukemia, myelodysplastic syndromes, acute lymphoblastic leukmeia, and multiple myeloma.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Multiple Myeloma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>146</id>
+    <karyotype>del(5q)</karyotype>
+    <description>del(5q) is a deletion event involving chromosome 5. In particular the q arm of chromosome 5 is deleted. It is found in chromosome 5q deletion syndrome and acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Chromosome 5q Deletion Syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>147</id>
+    <karyotype>Trisomy 8</karyotype>
+    <description>+8, also known as trisomy 8, refers to the presence of three copies chromosome 8. It is found in chronic myeloid leukemia, myelodysplastic syndromes, juvenile, myelomonocytic leukemia, acute myeloid leukemia, Wilms tumor, Ewing sacroma, and somatic non-Hodgkin lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Juvenile Myelomonocytic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Wilms Tumor</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Ewing Sarcoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Non Hodgkin lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>148</id>
+    <karyotype>t(3;5)(q25.1;q34)</karyotype>
+    <description>t(3;5)(q25.1;q34) is a translocation event involving chromosome 3 and 5. In particular, the segment from 1p22 to 1pter replaces the segment from 14q32 to 14qter and vice-versa. It is found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>149</id>
+    <karyotype>inv(3)(q21;q26)</karyotype>
+    <description>inv(3)(q21;q26) is a paracentric inversion event involving chromosome 3. In particular, the segment from 3q21 to 3q26 is inversed. It is found in acute myeloid leukemia and chronic myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>150</id>
+    <karyotype>dic(1;15)(p11;p11)</karyotype>
+    <description>dic(1;15)(p11;p11) is a fusion involving chromosome 1 and 15 resulting in a dicentric chromosome. In particular, it is the fusion between segment 1p11 and 15p11. It is found in myelodysplastic syndromes and and myeloproliferative diseases.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>151</id>
+    <karyotype>t(Y;1)(q12;q12)</karyotype>
+    <description>t(Y;1)(q12;q12) is a translocation involving the Y chromosome and chromosome 1. In particular, the segment from Yq12 to Yqter is replaced with 1q12 to 1qter and vice versa. It is found in myelodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>152</id>
+    <karyotype>t(1;16)(q11;q11)</karyotype>
+    <description>t(1;16)(q11;q11) is a translocation event involving chromosome 1 and 16. In particular, the segment from 1q11 to 1qter is replaced with the segment from 16q11 to 16qter and vice versa. It is found in myelodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>153</id>
+    <karyotype>del(12)(p)</karyotype>
+    <description>del(12)(p) is the deletion event involving chromosome 12. In particular, the p arm of chromosome 12 is deleted. It is found in acute lymphoblastiv leukemia and acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>154</id>
+    <karyotype>t(11;16)(q23;p13.3)</karyotype>
+    <description>t(11;16)(q23;p13.3) is a translocation event involving chromosome 11 and chromosome 16. In particular, the segment from 11q23 to 11qter is replaced with the segment from 16p13.3 to 16pter and vice versa. It is found in myelodysplastic syndromes and acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>155</id>
+    <karyotype>Y loss in Leukemia</karyotype>
+    <description>Y loss in Leukemia is the lost of the Y chromosome. Loss of the Y chromosome from individual metaphases is common in metaphase cells from both PHA-stimulated lymphocytes and spontaneously dividing bone marrow cells. The frequency of Y loss is greater in older men as a result, it is more challenging to distinguish between normal and disease associated 45,X,-Y (&lt;a href="http://atlasgeneticsoncology.org"&gt;atlas genetic oncology&lt;/a&gt;). This is seen in myeloproliferative disease and myelodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>156</id>
+    <karyotype>t(12;22)(p13;q12)</karyotype>
+    <description>t(12;22)(p13;q12) is a translocation event involving chromosome 12 and chromosome 22. In particular, the segment from 12p13 to 12pter is replaced with the segment from 22q12 to 22qter and vice versa. It is found in acute myeloid leukemia, myelodysplastic syndromes and B-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>157</id>
+    <karyotype>del(17)(p)</karyotype>
+    <description>del(17)(p) is a deletion event of chromosome 17. In particular, it is the deletion of the p arm of chromosome 17. It is found in acute lymphobblastic leukemia, myelodysplastic syndromes, and chronic myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>158</id>
+    <karyotype>Trisomy 9</karyotype>
+    <description>+9, also known as trisomy, refers to the presence of 3 copies of chromosome 9. It is found in B-cell acute lymphoblastic leukemia, and somatic T-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>159</id>
+    <karyotype>Trisomy 16</karyotype>
+    <description>+16, also known as trisomy 16, refers the presence of 3 copies of chromosome 16. It is found in acute lymphoblastic leukemia, acute myeloid leukemia, and myelodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>160</id>
+    <karyotype>der(6)t(1;6)(q21-23;p21)</karyotype>
+    <description>der(6)t(1;6)(q21-23;p21) refers to the unbalanced translocation event involving chromosome 1 and 6. In particular the segment 6p21 to 6pter is replaced with the segment from 1q21 to 1q23. It is found in myeloproliferative diseases and B-cell chronic lymphotic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Myeloproliferative Disorder</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Chronic Lymphocytic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>161</id>
+    <karyotype>del(1)(q21.1)</karyotype>
+    <description>del(1)(q21.1) refers to the deletion event involving chromosome 1. In particular, the segment from 1q21.1 to 1qter is deleted. It is found in 1q21.1 microdeletion syndrome and TAR syndrome.</description>
+    <conditions>
+      <condition>
+        <name>1q21.1 microdeletion syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>TAR Syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>162</id>
+    <karyotype>11q terminal deletion</karyotype>
+    <description>11q terminal deletion refers to a deletion event involving chromosome 11. In particular, the q terminal of chromosome 11 is deleted. It is found in Jacobsen syndrome.</description>
+    <conditions>
+      <condition>
+        <name>Jacobsen syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>163</id>
+    <karyotype>del(22)(q13)</karyotype>
+    <description>del(22)(q13) refers to a deletion event involving chromosome 22. In particular, the segment from 22q13 to 22qter is deleted. It is found in chromosome 22q13.3 deletion syndrome.</description>
+    <conditions>
+      <condition>
+        <name>Chromosome 22q13.3 Deletion Syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>164</id>
+    <karyotype>t(12;21)(p13;q22)</karyotype>
+    <description>t(12;21)(p13;q22) is a translocation event involving chromosome 12 and 21. In particular, the segment from 12p13 to 12pter is repalced with the segment from 21q22 to 22qter and vice versa. This is found in B-Cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>165</id>
+    <karyotype>t(14;19)(q32;p13)</karyotype>
+    <description>t(14;19)(q32;p13) is a translocation event involving chromosome 14 and 19. In particular, the segment from 14q32 to 14qter is replaced with the segment from 19p13 to 19pter and vice versa. It is found in B-cell lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>166</id>
+    <karyotype>t(7;12)(q34;p13)</karyotype>
+    <description>t(7;12)(q34;p13) is a translocation event involving chromosome 7 and 12. In particular, the segment from 7q34 to 7qter is replaced with the segment from 12p13 to 12pter and vice versa. It is found in somatic T-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>167</id>
+    <karyotype>Trisomy 18</karyotype>
+    <description>+18, also known as trisomy 18, refers to the presence of 3 copies of chromosome 18. It is also known as Edward syndrome. The developmental issues caused by Trisomy 18 are associated with more medical complications that are more potentially life-threatening in the early months and years of life.</description>
+    <conditions>
+      <condition>
+        <name>Trisomy 18</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>168</id>
+    <karyotype>15q13.3 microdeletion</karyotype>
+    <description>15q13.3 microdeletion refers to a small deletion (usually 1-3Mbp) that involves several contiguous genes. These deletions are too small to be detected by light microscopy through conventional cytogenic methods. This refers to a microdeletion specifically at position 15q13.3 of chromosome 15. This is seen in 15q13.3 microdeletion syndrome.</description>
+    <conditions>
+      <condition>
+        <name>15q13.3 microdeletion syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>169</id>
+    <karyotype>del(16)(p11.2)</karyotype>
+    <description>del(16)(p11.2) refers to a deletion event in chromosome 16. In particular the segment from 16p11.2 to 16pter is deleted. This is found in 16p11.2 deletion syndrome.</description>
+    <conditions>
+      <condition>
+        <name>16p11.2 deletion syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>170</id>
+    <karyotype>17q23.1q23.2 microdeletion</karyotype>
+    <description>17q23.1q23.2 microdeletion refers to a microdeltion in the region encompassed by 17q23.1 and 17q23.2. Microdeletions are often small deletions (usually 1-3Mbp) that are too small to be detected by light microscopy using conventional cytogenic methods.</description>
+    <conditions>
+      <condition>
+        <name>17q23.1q23.2 microdeletion syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>171</id>
+    <karyotype>t(5;14)(q35;q32.2)</karyotype>
+    <description>t(5;14)(q35;q32.2) refers to a translocation event involving chromosome 5 and chromosome 14. In particular, the segment from 5q35 to 5qter is replaced by the segment from 14q32.2 to 14qter. This is seen in somatic T-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>172</id>
+    <karyotype>t(6;11)(q13;q12)</karyotype>
+    <description>t(6;11)(q13;q12) is a translocation event involving chromosome 6 and 11. In particular, the segment from 6q13 to 6qter is replaced by the segment from 11q12 to 11qter and vice versa. It is found in somatic T-cell acute lymphoblastic leukemia and somatic acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>173</id>
+    <karyotype>t(8;12)(q13;p13)</karyotype>
+    <description>t(8;12)(q13;p13) is a translocation event involving chromosome 8 and 12. In particular, the segment from 8q13 to 8qter is replaced with the segment from 12p13 to 12pter. It is found in acute myeloid leukemia, somatic T-cell acute lymphoblastic leukemia, and B-cell lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>174</id>
+    <karyotype>t(1;2)(q25;p23)</karyotype>
+    <description>t(1;2)(q25;p23) is a translocation event involving chromosome 1 and 2. In particular, the segment from 1q25 to 1qter is replaced by the segment from 2p23 to 2pter. It is found in anaplastic large cell lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Anaplastic large cell lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>175</id>
+    <karyotype>t(14;15)(q32;q11)</karyotype>
+    <description>t(14;15)(q32;q11) is a translocation event involving chromosome 14 and 15. In particular, the segment from 14q32 to 14qter is replaced with the segment from 15q11 to 15qter. It is found in diffuse Large B Cell Lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Diffuse Large B Cell Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>176</id>
+    <karyotype>t(14;16)(q32;q23)</karyotype>
+    <description>t(14;16)(q32;q23) is a translocation event involving chromosome 14 and 16. In particular, the segment from 14q32 to 14qter is replaced with the segment from 16q23 to 16qter. It is found in multiple myeloma.</description>
+    <conditions>
+      <condition>
+        <name>Multiple Myeloma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>177</id>
+    <karyotype>t(2;19)(p12;q13.3)</karyotype>
+    <description>t(2;19)(p12;q13.3) is a translocation event involving chromosome 2 and 19. In particular, the region from 2p12 to 2pter is replaced with the region from 19q13.3 to 19qter and vice versa. It is found in chronic lymphocytic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Chronic Lymphocytic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>178</id>
+    <karyotype>t(2;17)(p23;q23)</karyotype>
+    <description>t(2;17)(p23;q23) is a translocation event involving chromosome 2 and 17. In particular, the segment from 2p23 to 2pter is replaced with the segment from 17q23 to 17qter. It is found in anaplastic large cell lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Anaplastic large cell lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>179</id>
+    <karyotype>t(2;5)(p23;q35)</karyotype>
+    <description>t(2;5)(p23;q35) is a translocation event involving chromosome 2 and 5. In particular, the segment from 2p23 to 2pter is replaced with the segment from 5q35 to 5qter. It is found in anaplastic large cell lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Anaplastic large cell lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>180</id>
+    <karyotype>t(2;6)(p12;p25)</karyotype>
+    <description>t(2;6)(p12;p25) is a translocation event involving chromosome 2 and 6. In particular, the region from 2p12 to 2pter is replaced with the region from 6p25 to 6pter and vice versa. It is found in multiple myeloma and therapy related myelodysplastic syndrome.</description>
+    <conditions>
+      <condition>
+        <name>Multiple Myeloma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Therapy Related Myelodysplastic Syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>181</id>
+    <karyotype>t(6;14)(p25;q32)</karyotype>
+    <description>t(6;14)(p25;q32) is a translocation event involving chromosome 6 and 14. In particular, the segment from 6p25 to 6pter is replaced with the segment from 14q32 to 14qter. It is found in multiple myeloma and therapy related myelodysplastic syndrome.</description>
+    <conditions>
+      <condition>
+        <name>Multiple Myeloma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Therapy Related Myelodysplastic Syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>182</id>
+    <karyotype>t(6;22)(p25;q11)</karyotype>
+    <description>t(6;22)(p25;q11) is a translocation event involving chromosome 6 and 22. In particular, the region from 6p25 to 6pter is replaced with the region from 22q11 to 22qter. It is found in multiple myeloma and therapy related myelodysplastic syndrome.</description>
+    <conditions>
+      <condition>
+        <name>Multiple Myeloma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+        <name>Therapy Related Myelodysplastic Syndrome</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>183</id>
+    <karyotype>inv(2)(p23q35)</karyotype>
+    <description>inv(2)(p23q35) is a pericentric inversion event involving chromosome 2. In particular, the segment between 2p23 to 2q35 is inverted. It is found in anaplastic large cell lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Anaplastic large cell lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>184</id>
+    <karyotype>t(3;7)(q27;q32)</karyotype>
+    <description>t(3;7)(q27;q32) is a translocation event involving chromosome 3 and 7. In particular, the segment between 3q27 to 3qter is replaced with the segment between 7q32 to 7qter. It is found in splenic Lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Splenic Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>185</id>
+    <karyotype>Trisomy 3</karyotype>
+    <description>Trisomy 3, also known as +3, refers to the presence of three copies of chromosome 3. It is found in T-c non-Hodgkin lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>T-Cell Non-Hodgkin Lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>186</id>
+    <karyotype>t(6;7)(p25.3;q32.3)</karyotype>
+    <description>t(6;7)(p25.3;q32.3) is a translocation event involving chromosome 6 and 7. In particular, the region between 6p25.3 and 6pter is replaced with the region from 7q32.3 to 7qter. It is found in anaplastic large cell lymphoma.</description>
+    <conditions>
+      <condition>
+        <name>Anaplastic large cell lymphoma</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>187</id>
+    <karyotype>t(11;20)(p15;q11)</karyotype>
+    <description>t(11;20)(p15;q11) is a translocation event involving chromosome 11 and 20. In particular, the region between 11p15 and 11pter is replaced with the region between 20q11 and 22qter and vice versa. It is found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>188</id>
+    <karyotype>t(16;21)(q24;q22)</karyotype>
+    <description>t(16;21)(q24;q22) is a translocation event involving chromosome 16 and 21. In particular, the segment between 16q24 to 16qter is replaced with the region from 21q22 to 21qter and vice versa. It is found in meylodysplastic syndromes.</description>
+    <conditions>
+      <condition>
+        <name>Myelodysplastic Syndromes</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>189</id>
+    <karyotype>t(10;11)(p12;q21)</karyotype>
+    <description>t(10;11)(p12;q21) is a translocation event involving chromosome 10 and 11. In particular, the region between 10p12 and 10pter is replaced with the regino between 11q21 and 11qter and vice versa. It is found in somatic T-cell acute lymphoblastic leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Somatic T Cell Acute Lymphoblastic Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+  <karyotype>
+    <id>190</id>
+    <karyotype>t(2;11)(q31;p15)</karyotype>
+    <description>t(2;11)(q31;p15) is a translocation event involving chromosome 2 and 11. In particular, the segment between 2q31 to 2qter is replaced with the region between 11p15 to 11pter and vice versa. It is found in acute myeloid leukemia.</description>
+    <conditions>
+      <condition>
+        <name>Acute Myeloid Leukemia</name>
+        <biomarker_catogory>Diagnostic</biomarker_catogory>
+      </condition>
+    </conditions>
+  </karyotype>
+</karyotypes>
+<to_s/>
