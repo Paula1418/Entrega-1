@@ -22,7 +22,7 @@ if contenido.count("<?xml") > 1 or not contenido.strip().startswith("<root>"):
 arbol = ET.ElementTree(ET.fromstring(contenido))
 raiz = arbol.getroot()
 
-#Defino el arcivo TSV como variables
+#Defino el archivo TSV como variable
 archivo_tsv = "all_karyotypes.tsv"
 
 with open(archivo_tsv, "w", newline="", encoding="utf-8") as tsvfile: #Abre el archivo TSV en modo escritura. Se usa newline="" para evitar filas en blanco extra
@@ -46,3 +46,4 @@ with open(archivo_tsv, "w", newline="", encoding="utf-8") as tsvfile: #Abre el a
 
 #Indica que el archivo se guardo de manera correcta
 print("archivo guardado de manera correcta", archivo_tsv)
+
