@@ -1,5 +1,5 @@
 # Entrega-1
-Se encuentra los pasos de como se realizo la transformacion de  un archivo xml  a un formato TSV, utilizando herramientas como pycharm y visual studio 
+Se encuentra los pasos de como se realizo la transformación de  un archivo XML  a un formato TSV, utilizando herramientas como pycharm y visual studio 
 <p align="center">
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="Logo PyCharm" width="150px" height="150px" />
   &nbsp;&nbsp;&nbsp;
